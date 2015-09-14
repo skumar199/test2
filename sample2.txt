@@ -1,2 +1,4 @@
 this is 1st line of sample1
 2nd line of sample2 added
+this is 3rd line
+this is 4th line
